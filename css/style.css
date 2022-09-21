@@ -1,0 +1,26 @@
+/* reset margin, padding */
+body {
+    margin: 0 !important;
+    /* padding: none !important; */
+}
+
+.banner {
+    height: 865px;
+
+    background-image: url('../img/banner.jpg');
+}
+
+.about-sign-in {
+    height: 80px;
+    width: 100%;
+    text-align: right;
+}
+
+
+.about,
+.sign {
+    display: inline-block;
+    text-decoration: none;
+    margin-top: 20px;
+    margin-right: 30px;
+}
